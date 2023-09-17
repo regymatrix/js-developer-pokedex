@@ -1,0 +1,8 @@
+URL  
+ https://pokeapi.co/api/v2/pokemon
+
+
+
+api/v2/pokemon
+
+Resquest Method : Get, post , put, 
